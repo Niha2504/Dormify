@@ -1,3 +1,9 @@
+Team-2
+Rishika
+Niharika
+Manasa
+
+
 1. Team Name:Dormify
 
 2. Problem Statement:Inefficient and Opaque Hostel Bed Allocation and Request Management.
